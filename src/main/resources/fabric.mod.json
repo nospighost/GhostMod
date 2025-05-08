@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ghostmod",
+	"version": "${version}",
+	"name": "Ghost Mod",
+	"description": "Lass deinen Ideen freien lauf",
+	"authors": [
+		"nospighost"
+	],
+	"contact": {
+		"homepage": "https://kaupenjoe.net",
+		"sources": "https://github.com/Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.21.X"
+	},
+	"license": "MIT",
+	"icon": "assets/GhostMod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.GhostMod.GhostMod"
+		],
+		"fabric-datagen": [
+			"de.GhostMod.GhostModDataGenerator"
+		],
+		"client": [
+			"de.GhostMod.GhostModClient"
+		]
+	},
+	"mixins": [
+		"tutorialmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
