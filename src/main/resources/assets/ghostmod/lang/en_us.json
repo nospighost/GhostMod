@@ -1,6 +1,9 @@
 {
-  "item.ghostmod.pink_garnet": "Pink Garnet",
-  "item.ghostmod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.ghostmod.zink_ingot": "Zink Barren",
+  "item.ghostmod.raw_zink_ingot": "Roher Zink Barren",
   "block.ghostmod.zink_block": "Zink Block",
-  "block.ghostmod.raw_zink_block": "Roher Zink Block"
+  "block.ghostmod.raw_zink_block": "Roher Zink Block",
+  "block.ghostmod.deepslate_zink_ore": "Tiefenschiefer Zink Erz",
+  "block.ghostmod.zink_ore": "Zink Erz",
+  "block.ghostmod.magic_block": "Magie Block"
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ghostmod:item/pink_garnet"
+    "layer0": "ghostmod:item/raw_zink_ingot"
   }
 }

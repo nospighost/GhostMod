@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ghostmod:zink_block",
+    "ghostmod:raw_zink_block",
+    "ghostmod:zink_ore",
+    "ghostmod:deepslate_zink_ore"
+  ]
+}

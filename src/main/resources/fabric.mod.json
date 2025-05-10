@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"de.GhostMod.GhostMod"
+          "de.GhostMod.Main"
 		],
 		"fabric-datagen": [
 			"de.GhostMod.GhostModDataGenerator"

@@ -1,0 +1,14 @@
+
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "zink_ingot",
+  "ingredient": {
+    "item": "ghostmod:raw_zink_ingot"
+  },
+  "result": {
+    "id": "ghostmod:zink_ingot"
+  }
+}
